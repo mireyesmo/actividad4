@@ -1,0 +1,13 @@
+.cajagrande{
+    width:100%;del ancho del nav*/
+    height:500px;
+    border:3px orange;
+}
+
+.cajagrande > div{
+width: 600px;
+height: 150px;
+border: 4px blue;
+display: flex;
+
+}
